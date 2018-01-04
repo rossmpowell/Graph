@@ -12,7 +12,7 @@ import java.util.Stack;
  */
 public class Graph {
 	
-	/** The vertex array where each edges name will be stored */
+	/** The vertex array where each vertices name will be stored */
 	private Vertex[] v;
 	
 	/* The variable where we will store the Edges */
